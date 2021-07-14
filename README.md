@@ -10,6 +10,6 @@
 
 * 文章在自己的CSDN专栏首发，其他平台文章均属转发，如想获得最新更新进展，欢迎关注我的[python编程基础专栏](https://blog.csdn.net/wzy628810/category_11193156.html)
 
-|   文章   |    CSDN    |    知乎    |
+|   文章   |    CSDN    |    code    |
 | :------  | :--------: | :--------: |
 | Python编程基础：第一节 变量Variables | [CSDN](https://blog.csdn.net/wzy628810/article/details/118600345 "悬停显示") | [code](https://github.com/wzy6642/Python-Full-Course/blob/main/code/%E7%AC%AC%E4%B8%80%E8%8A%82_%E5%8F%98%E9%87%8FVariables.py "悬停显示") |
