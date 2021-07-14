@@ -3,7 +3,7 @@
 通过本项目可以对Python编程进行较为系统的学习，每一套代码都配套了详细的学习教程，非常适合零基础读者学习。原创文章每周最少两篇，**后续最新文章**会在[CSDN](https://blog.csdn.net/wzy628810/category_11193156.html)首发，欢迎**Star**！
 
 <p align="center">
-  <a href="https://blog.csdn.net/c406495762" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+  <a href="https://blog.csdn.net/wzy628810" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
 </p>
 
 ### 文章首发声明
