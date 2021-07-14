@@ -8,7 +8,7 @@
 
 ### 文章首发声明
 
-* 文章在自己的CSDN专栏首发，其他平台文章均属转发，如想获得最新更新进展，欢迎关注我的[python编程基础专栏](https://blog.csdn.net/wzy628810/category_11193156.html)
+* 文章在我的CSDN专栏首发，其他平台文章均属转发，如想获得最新更新进展，欢迎关注我的[python编程基础专栏](https://blog.csdn.net/wzy628810/category_11193156.html)
 
 |   文章   |    CSDN    |    code    |
 | :------  | :--------: | :--------: |
