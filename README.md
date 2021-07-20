@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://blog.csdn.net/wzy628810" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
-  <a href="https://www.zhihu.com/column/c_1399020159697285121" target="_blank"><img src="https://img.shields.io/badge/jianshu-%E7%AE%80%E4%B9%A6-information" alt="简书"></a>
+  <a href="https://www.jianshu.com/u/f2b567b81e54" target="_blank"><img src="https://img.shields.io/badge/jianshu-%E7%AE%80%E4%B9%A6-information" alt="简书"></a>
 </p>
 
 ### 文章首发声明
 
 * 文章在我的CSDN专栏首发，其他平台文章均属转发，如想获得最新更新进展，欢迎关注我的[python编程基础专栏](https://blog.csdn.net/wzy628810/category_11193156.html)
 
-|   文章   |    CSDN    |   知乎     |    code    |
+|   文章   |    CSDN    |   简书     |    code    |
 | :------  | :--------: | :-----:|  :--------: |
-| Python编程基础：第一节 变量Variables | [CSDN](https://blog.csdn.net/wzy628810/article/details/118600345 "悬停显示") |[知乎](https://zhuanlan.zhihu.com/p/389973428)| [code](https://github.com/wzy6642/Python-Full-Course/blob/main/code/%E7%AC%AC%E4%B8%80%E8%8A%82_%E5%8F%98%E9%87%8FVariables.py "悬停显示") |
+| Python编程基础：第一节 变量Variables | [CSDN](https://blog.csdn.net/wzy628810/article/details/118600345 "悬停显示") |[简书](https://www.jianshu.com/p/45aa4f5f79a6)| [code](https://github.com/wzy6642/Python-Full-Course/blob/main/code/%E7%AC%AC%E4%B8%80%E8%8A%82_%E5%8F%98%E9%87%8FVariables.py "悬停显示") |
