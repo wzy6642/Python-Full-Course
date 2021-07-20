@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://blog.csdn.net/wzy628810" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
-  <a href="https://www.zhihu.com/column/c_1399020159697285121" target="_blank"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
+  <a href="https://www.zhihu.com/column/c_1399020159697285121" target="_blank"><img src="https://img.shields.io/badge/jianshu-%E7%AE%80%E4%B9%A6-information" alt="简书"></a>
 </p>
 
 ### 文章首发声明
