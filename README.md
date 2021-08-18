@@ -19,3 +19,7 @@
 | Python编程基础：第四节 类型转换Type Cast | [CSDN](https://blog.csdn.net/wzy628810/article/details/118673173 "悬停显示") |[简书](https://www.jianshu.com/p/5c4eaa5be8dd)| [code](https://github.com/wzy6642/Python-Full-Course/blob/main/code/%E7%AC%AC%E5%9B%9B%E8%8A%82_%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2Type%20Cast.py "悬停显示") |
 | Python编程基础：第五节 用户输入User Input | [CSDN](https://blog.csdn.net/wzy628810/article/details/118681726 "悬停显示") |[简书](https://www.jianshu.com/p/cf86c42c6a15)| [code](https://github.com/wzy6642/Python-Full-Course/blob/main/code/%E7%AC%AC%E4%BA%94%E8%8A%82_%E7%94%A8%E6%88%B7%E8%BE%93%E5%85%A5User%20Input.py "悬停显示") |
 | Python编程基础：第六节 math包的基础使用Math Functions | [CSDN](https://blog.csdn.net/wzy628810/article/details/118682013 "悬停显示") |[简书](https://www.jianshu.com/p/7f574af92cc3)| [code](https://github.com/wzy6642/Python-Full-Course/blob/main/code/%E7%AC%AC%E5%85%AD%E8%8A%82%20math%E5%8C%85%E7%9A%84%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8Math%20Functions.py "悬停显示") |
+| Python编程基础：第七节 字符串切片String Slicing | [CSDN](https://blog.csdn.net/wzy628810/article/details/118682432 "悬停显示") |[简书](https://www.jianshu.com/p/7f574af92cc3)| [code](https://github.com/wzy6642/Python-Full-Course/blob/main/code/%E7%AC%AC%E4%B8%83%E8%8A%82_%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%88%87%E7%89%87String%20Slicing.py "悬停显示") |
+
+
+
