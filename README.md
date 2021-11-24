@@ -1,4 +1,4 @@
-# Python基础知识
+# [Python基础知识](https://lush-popcorn-60c.notion.site/0-bf2b433e0f1548d185d06913b3032768)
 
 ### 0.1 变量及数据类型
 
